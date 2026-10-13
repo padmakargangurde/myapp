@@ -1,0 +1,6 @@
+@MEP_APIs_HostAddress = http://localhost:5101
+
+GET {{MEP_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
